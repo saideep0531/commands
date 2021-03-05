@@ -1,0 +1,16 @@
+Commands
+
+1>git push (variable name)----master it sends the changes committed of master branch to remote repository
+2>git pull[repository link]-----it fetches and merges chance on the remote server to our working directory
+4>git checkout (branchname)--------is ued to switch from one branch to another
+5>git branch (branchname)-------create new branch
+6>ls-----------it lists the files in directory
+7>man-------shows the manual for a given command
+8>git clone URL----copys the Url
+9>git status----shows the status of the file which is being tracked
+10>cd----pathname changes the directory or folder in the file.
+11>cd..----moves back to the upper folder in the file system.
+12> cp----copy a file to another folder
+13>mv----move a file to another
+14>mkdir---creates a new directory or folder
+15>rmdir----removes the directory
